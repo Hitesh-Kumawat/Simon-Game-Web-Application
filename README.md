@@ -4,4 +4,4 @@ Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard
 
 I've created my own version of it using JavaScript. 
 
-Link of Website: 
+Link of Website: https://hitesh-kumawat.github.io/Simon-Game-Web-Application/
